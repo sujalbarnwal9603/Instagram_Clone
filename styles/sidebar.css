@@ -1,0 +1,55 @@
+.sidebar{
+    width: 220px;
+    position: fixed;
+}
+.instagram-logo-container{
+    width: 220px;
+    margin-bottom: 10px;
+}
+.instagram-logo{
+    width: 150px;
+    cursor: pointer;
+}
+.icons-container{
+    display: flex;
+    border: 12px solid white;
+    margin-bottom: 2px;
+    align-items: center;
+    border-radius: 8px;
+    transition: background-color 0.5s, border 0.5s;
+}    
+.icons-container:hover{
+
+    background-color: #7f7f7f;
+    border: 12px solid #7f7f7f;
+    border-radius: 8px;
+    cursor: pointer;
+    
+
+
+}
+.icons{
+    width: 25px;
+    margin-left: 5px;
+}
+.all-icons{
+    
+}
+.names{
+    margin-left: 15px;
+    font-family: Arial;
+}
+.profile{
+    width: 26px;
+    height: 26px;
+    border-radius: 25px;
+    margin-left: 4px;
+}
+.line{
+    width: 1px;
+    background-color: #737373;
+    height: 1000px;
+    position: fixed;
+    margin-top: -15px;
+    margin-left: 235px;
+}

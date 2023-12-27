@@ -1,0 +1,212 @@
+body{
+    padding-bottom: 5000px;
+    
+}
+p{
+    
+    font-family: Roboto, Arial;
+}
+
+.main{
+    padding-left: 360px;
+    padding-top: 38px;
+}
+.status{
+    width: 60px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+
+    background:linear-gradient(to top, #d5e00c, #f709e3) border-box;
+
+    margin-bottom: 0px;
+}
+.all-status{
+    display: flex;
+    width: fit-content;
+    margin-bottom: 0px;
+}
+.status-container{
+    margin-right: 15px;
+    margin-bottom: 0px;
+   
+}
+.names-s{
+    margin-left: 1px;
+    font-size: 12px;
+}
+.main-container{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 35px;
+    margin-bottom: 0px;
+}
+
+.right-section-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.status-1{
+    width: 60px;
+    border-radius: 50%;
+}
+.my-status-container{
+    margin-top: 4px;
+    margin-right: 15px;
+}
+.right-section{
+    margin-right: 18px;
+}
+.paragrah{
+
+}
+p{
+    font-size: 13px;
+    font-family: Roboto, Arial;
+    margin: 0;
+}
+.profile-a{
+    margin-right: 115px;
+}
+.switch,.follow-container{
+    margin-right: 70px;
+    color: #0067f6;
+    font-size: 2px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+    margin-bottom: 12px;
+}
+.see{
+    margin-right: 70px;
+    
+}
+.swi{
+    font-size: 12px;
+}
+.see-all{
+    font-size: 12px;
+}
+.lazy{
+    font-weight: bold;
+}
+.by{
+    font-size: 10px;
+    color: #737373;
+}
+.follow{
+    font-size: 12px;
+}
+.Sugg{
+    color: #737373;
+    font-weight: bold;
+}
+.suggestion{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 5px;
+    margin-top: 12px;
+}
+.sugest-image{
+    width: 35px;
+    border-radius: 50%;
+    margin-right: 0;
+}
+.aragraph{
+    margin-right: 55px;
+}
+.small{
+
+    margin-top: 30px;
+    margin-left: 3px;
+    
+}
+.small-para{
+    font-size: 11px;
+    margin-bottom: 20px;
+    color: #737373;
+}
+.small-para1{
+    font-size: 12px;
+    color: #737373;
+}
+.middle{
+    width: 470px;
+    margin-top: -310px;
+    margin-left: 90px;
+
+}
+.under-profile{
+    width: 35px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    background:linear-gradient(to top, #d5e00c, #f709e3) border-box;
+
+}
+.other-top-section{
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    
+}
+.imore{
+    width: 15px;
+}
+.written{
+    margin-left: 10px;
+}
+.inner-written{
+    display: flex;
+}
+.inner-written-2{
+    width: max-content;
+}
+.more-container{
+    margin-left: 270px;
+}
+.daily-updates{
+    width: 473px;
+    border-radius: 4px;
+}
+.icons-daily-container{
+    display: flex;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+.icons-daily{
+    width: 25px;
+}
+.icons-daily-container-under{
+    margin-right: 12px;
+}
+.icons-daily-container-under-1{
+    margin-left: 341px;
+}  
+.wrote-a{
+    color: black;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+.wrote-b{
+    color: black;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+.wrote-c{
+    color: #737373;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+.wrote-d{
+    color: #737373;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+.wrote-e{
+    color: #737373;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
